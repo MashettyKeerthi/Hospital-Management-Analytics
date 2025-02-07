@@ -53,4 +53,14 @@ By using structured data and smart analysis, this project helps hospitals run mo
 
 **7.** Analyze peak hours for appointments and suggest time slots for more efficient scheduling. 
 
-**8.** Generate a monthly revenue breakdown by doctor specialty.
+**8.** Generate a monthly revenue breakdown by doctor speciality. <a href="https://github.com/MashettyKeerthi/Hospital-Management-Analytics/blob/main/Hospital%20Management%20Analytics.sql">Query file</a>
+
+## Expected Outcomes after analysis:
+
+**.** Improved hospital resource allocation based on peak hours.
+
+**.** Better patient management by identifying common health issues.
+
+**.** Enhanced financial insights to track revenue and pending payments.
+
+**.** Optimized doctor scheduling based on workload analysis.
